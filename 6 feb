@@ -9,5 +9,9 @@ public class StringeExample1 {
 			System.out.println(fname);
 			String lname = "xyz";
 			System.out.println(lname);
+			int len = str.length();
+			System.out.println("length is : " + len);
+			String s1 = str.toUpperCase();
+			System.out.println("upper case string is : " + s1);
 	}
 }
