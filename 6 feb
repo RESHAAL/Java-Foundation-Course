@@ -1,0 +1,13 @@
+
+public class StringeExample1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			String str = "Nagpur";
+			System.out.println(str);
+			String fname = "ABC";
+			System.out.println(fname);
+			String lname = "xyz";
+			System.out.println(lname);
+	}
+}
